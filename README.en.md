@@ -7,6 +7,14 @@
 
 ---
 
+## Commercial partnership with RunningHub
+
+[![RunningHub API partner banner](assets/runninghub/banner.png)](https://www.runninghub.ai/call-api?source=github)
+
+RunningHub supports this project. Its API gives developers access to more than 400 models, including Nano Banana, Seedance, Kling, MiniMax, and Veo, with support for concurrent requests and pay-as-you-go billing.
+
+[Try the API for free](https://www.runninghub.ai/call-api?source=github) · Contact for discounts and trial access [zhenyuedong@haima.me](mailto:zhenyuedong@haima.me)
+
 ## Run locally
 
 Use Node.js 22 or later. From the project directory, copy the configuration template on first setup.

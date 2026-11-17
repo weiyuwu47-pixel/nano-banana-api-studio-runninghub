@@ -7,6 +7,14 @@
 
 ---
 
+## RunningHub 商业合作
+
+[![RunningHub API 中文服务介绍](assets/runninghub/overview-zh.png)](https://www.runninghub.ai/call-api?source=github)
+
+RunningHub 为本项目提供支持。通过统一 API 可调用 Nano Banana、Seedance、Kling、MiniMax、Veo 等 400 多个模型，支持高并发调用和按需付费。
+
+[免费测试 API](https://www.runninghub.ai/call-api?source=github) · 折扣与试用咨询 [zhenyuedong@haima.me](mailto:zhenyuedong@haima.me)
+
 ## 本地启动
 需要 Node.js 22 或更高版本，无需安装第三方包。在项目目录复制配置模板（已有 .env 可跳过）：
   

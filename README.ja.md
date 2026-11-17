@@ -7,6 +7,14 @@
 
 ---
 
+## RunningHub とのパートナーシップ
+
+[![RunningHub API のパートナーバナー](assets/runninghub/banner.png)](https://www.runninghub.ai/call-api?source=github)
+
+本プロジェクトは RunningHub の支援を受けています。共通の API から Nano Banana、Seedance、Kling、MiniMax、Veo など 400 種類以上のモデルを利用できます。多数のリクエストの同時処理に対応し、料金は従量制です。
+
+[API を無料で試す](https://www.runninghub.ai/call-api?source=github) · 割引・トライアルのお問い合わせ [zhenyuedong@haima.me](mailto:zhenyuedong@haima.me)
+
 ## ローカルで起動
 
 Node.js 22 以降が必要です。初回はプロジェクトのディレクトリで設定ファイルを作成します。
